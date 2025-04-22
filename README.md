@@ -2,7 +2,6 @@
 
 This repository contains a comprehensive **Power BI Dashboard** built to analyze stroke prevalence based on various healthcare, demographic, and lifestyle factors. The dashboard visualizes patterns and insights to support data-driven healthcare interventions and stroke prevention strategies.
 
-![Stroke Dashboard Screenshot](Screenshot%202025-04-22%20115029.png)
 
 ---
 
