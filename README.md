@@ -79,7 +79,7 @@ This project was created to demonstrate how **data analytics and visualization**
 
 ##  Contact
 
-For questions or collaborations, feel free to connect via [LinkedIn](#) or open an issue in this repository.
+For questions or collaborations, feel free to connect via [LinkedIn](www.linkedin.com/in/tongji-joseph-7997bb361) or open an issue in this repository.
 
 ---
 
